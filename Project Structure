@@ -1,0 +1,26 @@
+DGK-Hair-App/
+│
+├── backend/
+│   ├── config/
+│   │   └── db.js
+│   ├── controllers/
+│   │   ├── userController.js
+│   │   └── salonController.js
+│   ├── models/
+│   │   ├── userModel.js
+│   │   └── salonModel.js
+│   ├── routes/
+│   │   └── index.js
+│   ├── .env
+│   ├── app.js
+│   └── package.json
+│
+├── frontend/
+│   ├── src/
+│   │   ├── screens/
+│   │   │   ├── LoginScreen.js
+│   │   │   ├── HomeScreen.js
+│   │   │   ├── UserScreen.js
+│   │   │   └── SalonScreen.js
+│   ├── App.js
+│   └── package.json

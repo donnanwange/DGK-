@@ -1,0 +1,10 @@
+frontend/
+│
+├── src/
+│   ├── screens/
+│   │   ├── LoginScreen.js
+│   │   ├── HomeScreen.js
+│   │   ├── UserScreen.js
+│   │   └── SalonScreen.js
+├── App.js
+└── package.json

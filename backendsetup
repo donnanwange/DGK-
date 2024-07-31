@@ -1,5 +1,0 @@
-mkdir backend
-cd backend
-mkdir config controllers models routes
-touch app.js config/db.js routes/index.js .env
-npm init -y
